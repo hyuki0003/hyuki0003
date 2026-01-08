@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm DongHyuk Lee
 
-**Researcher, Programmer & Project Manager** Interested in **AI, NLP, CV, HCI, VR/AR and Embedded Computer**
+**AI Researcher, Programmer & Project Manager** Interested in **AI, NLP, CV, HCI, VR/AR and Embedded Computer**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9D%B4%EB%8F%99%ED%98%81-x-8542971b0/)
