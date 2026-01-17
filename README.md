@@ -15,6 +15,9 @@
 
 <br>
 
+## 📢 News
+* **[Jan, 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
+
 ## 💼 Career
 
 | Period | Role | Organization |
