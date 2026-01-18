@@ -18,14 +18,6 @@
 * **[Jan, 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
 * **[May, 2024]** 🥇 Our paper **"Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"** received the **Best Poster Paper Award** at **KOSOMBE 2024**!
 * **[Mar, 2024]** 🏫 Joined **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
-  
-<br>
-
-## 💼 Career
-| Period | Role | Organization |
-| :--- | :--- | :--- |
-| 2024.03 ~ 2026.02 | Graduate Student | **Kwangwoon University** (Neuro AI Lab.) |
-| 2020.03 ~ 2024.02 | Graduate Student | **Hansung University** |
 
 <br>
 
