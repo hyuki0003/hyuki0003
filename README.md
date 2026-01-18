@@ -22,7 +22,7 @@
 
 | Period | Role | Organization |
 | :--- | :--- | :--- |
-| 2024.03 ~ 2026.02 | Graduate Student | **Kwangwoon University** (Neuro AI Lab) |
+| 2024.03 ~ 2026.02 | Graduate Student | **Kwangwoon University** (Neuro AI Lab.) |
 | 2020.03 ~ 2024.02 | Graduate Student | **Hansung University** |
 
 <br>
