@@ -14,6 +14,12 @@
 
 <br>
 
+## 🎓 Education
+- **M.S.** in Electronic Communication Engineering, **Kwangwoon University**
+- **B.S.** in Computer Software Engineering, **Hansung University**
+  
+<br>
+  
 ## 📢 News
 * **[Jan, 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
 * **[May, 2024]** 🥇 Our paper **"Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"** received the **Best Poster Paper Award** at **KOSOMBE 2024**!
