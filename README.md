@@ -70,7 +70,3 @@
 | **OS & DB** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 <br>
-
-## 🎓 Education
-- **M.S.** in Electronic Communication Engineering, **Kwangwoon University**
-- **B.S.** in Computer Software Engineering, **Hansung University**
