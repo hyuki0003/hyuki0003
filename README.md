@@ -15,8 +15,9 @@
 <br>
 
 ## 🎓 Education
-- **M.S.** in Electronic Communication Engineering, **Kwangwoon University**
+- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University**
 - **B.S.** in Computer Software Engineering, **Hansung University**
+- **B.S.** in IT Convergence Engineering, **Hansung University**
   
 <br>
   
