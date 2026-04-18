@@ -15,7 +15,7 @@
 <br>
 
 ## 💼 Career
-- AI Researcher @ [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) AI Group, R&D Dept. (2026.04 ~ )
+- AI Researcher @ [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) AI Group, R&D Dept. (2026.04 ~ Present)
 - Graduate Student @ Kwangwoon University @ [Neuro AI Lab.](https://sites.google.com/view/neuroailab/home) (2024.03 ~ 2026.02)
 
 <br>
