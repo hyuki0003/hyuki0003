@@ -20,7 +20,7 @@
 <br>
 
 ## 🎓 Education
-- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University**
+- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University** @ [Neuro AI Lab.](https://sites.google.com/view/neuroailab/home)
 - **B.S.** in Computer Software Engineering, **Hansung University**
 - **B.S.** in IT Convergence Engineering, **Hansung University**
   
