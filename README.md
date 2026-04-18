@@ -15,7 +15,7 @@
 <br>
 
 ## 💼 Career
-- AI Researcher @ [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) R&D Dept. (2026.04 ~ )
+- AI Researcher @ [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) AI Group, R&D Dept. (2026.04 ~ )
 
 <br>
 
