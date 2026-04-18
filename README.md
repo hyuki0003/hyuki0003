@@ -42,11 +42,10 @@
 <br>
 
 ### 📄 In Progress
-  
+- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement," *IEEE Journal of Biomedical and Health Informaticss (JBHI),* 2026
 <br>
 
 ### 📄 Under review
-- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement," *IEEE Transactions on Consumer Electronics (TCE),* 2026
   
 <br>
 
