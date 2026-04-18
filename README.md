@@ -14,6 +14,11 @@
 
 <br>
 
+## 💼 Career
+- Now I'm a AI Researcher @ Medical AI Co., Ltd. R&D Dept. (2026.04 ~ )
+
+<br>
+
 ## 🎓 Education
 - **M.S.** in Electronics and Communication Engineering, **Kwangwoon University**
 - **B.S.** in Computer Software Engineering, **Hansung University**
