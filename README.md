@@ -5,7 +5,7 @@
 **AI Researcher, Programmer & Project Manager** Interested in **AI, NLP, CV, HCI and Embedded Computer**
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/%EC%9D%B4%EB%8F%99%ED%98%81-x-8542971b0/](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyuk_i2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyuki0003)
