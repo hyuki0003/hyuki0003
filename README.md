@@ -16,11 +16,12 @@
 
 ## 💼 Career
 - AI Researcher @ [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) AI Group, R&D Dept. (2026.04 ~ )
+- Graduate Student @ Kwangwoon University @ [Neuro AI Lab.](https://sites.google.com/view/neuroailab/home) (2024.03 ~ 2026.02)
 
 <br>
 
 ## 🎓 Education
-- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University** @ [Neuro AI Lab.](https://sites.google.com/view/neuroailab/home)
+- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University**
 - **B.S.** in Computer Software Engineering, **Hansung University**
 - **B.S.** in IT Convergence Engineering, **Hansung University**
   
