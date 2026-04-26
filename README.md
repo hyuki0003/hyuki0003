@@ -29,9 +29,9 @@
   
 ## 📢 News
 * **[Apr., 2026]** 🏫 Joined **Medical AI Co., Ltd.**.
-* **[Mar, 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted for an oral presentation at **ICASSP 2026**! See you in Barcelona, Spain!
-* **[Feb, 2026]** 🏫 Graduated **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
-* **[Jan, 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
+* **[Mar., 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted for an oral presentation at **ICASSP 2026**! See you in Barcelona, Spain!
+* **[Feb., 2026]** 🏫 Graduated **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
+* **[Jan., 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
 * **[May, 2024]** 🥇 Our paper **"Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"** received the **Best Poster Paper Award** at **KOSOMBE 2024**!
 * **[Mar, 2024]** 🏫 Joined **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
 
