@@ -54,18 +54,18 @@
 <br>
 
 ### 📄 Journals & Conferences
-- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations," *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP),* May. 2026. ***(Oral Presentation)***
-- M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al., "Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder," *Autumn Annual Conference of IEIE,* Nov. 2025.
-- M. S. Lee, J.-Y. Lee, **D.-H. Lee**, D. H. Kim, Y.-S. Choi, et al., "A Study on the Exploration of Physiological Biomarkers for Classifying Alcohol Craving Levels Based on Heart Rate Responses," *Summer Annual Conference of IEIE,* Jun. 2025.
-- **D.-H. Lee**, Y.-S. Choi, "Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention," *Summer Annual Conference of IEIE,* Jun. 2025.
-- **D.-H. Lee**, D. H. Kim, and Y.-S. Choi, "Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning," *International Conference on Electronics, Information, and Communication (ICEIC), Jan. 2025.
-- **D.-H. Lee**, Y.-S. Choi, "Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer," *Summer Annual Conference of IEIE,* Jun. 2024.
-- D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance," *Summer Annual Conference of KOSOMBE,* May. 2024.
+- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations," *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP),* May, 2026. ***(Oral Presentation)***
+- M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al., "Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder," *Autumn Annual Conference of IEIE,* Nov., 2025.
+- M. S. Lee, J.-Y. Lee, **D.-H. Lee**, D. H. Kim, Y.-S. Choi, et al., "A Study on the Exploration of Physiological Biomarkers for Classifying Alcohol Craving Levels Based on Heart Rate Responses," *Summer Annual Conference of IEIE,* Jun., 2025.
+- **D.-H. Lee**, Y.-S. Choi, "Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention," *Summer Annual Conference of IEIE,* Jun., 2025.
+- **D.-H. Lee**, D. H. Kim, and Y.-S. Choi, "Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning," *International Conference on Electronics, Information, and Communication (ICEIC), Jan., 2025.
+- **D.-H. Lee**, Y.-S. Choi, "Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer," *Summer Annual Conference of IEIE,* Jun., 2024.
+- D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance," *Summer Annual Conference of KOSOMBE,* May, 2024.
   
 <br>
 
 ### 📄 Thesis
-- **D.-H. Lee**, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations", Master's Thesis, Kwangwoon Univ., Dec. 2025.
+- **D.-H. Lee**, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations", Master's Thesis, Kwangwoon Univ., Dec., 2025.
   
 <br>
 
