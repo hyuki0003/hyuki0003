@@ -2,7 +2,7 @@
 
 # 😎 Hi there, I'm Dong-Hyuk Lee
 
-**AI Researcher, Programmer & Project Manager** Interested in **AI, NLP, CV, HCI and Embedded Computer**
+**AI Researcher, Engineer & Programmer** Interested in **Biosignal Processing, eXplainable AI and Human-Computer Interaction**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/)
