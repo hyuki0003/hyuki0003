@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Dong-Hyuk Lee
+# 😎 Hi there, I'm Dong-Hyuk Lee
 
 **AI Researcher, Programmer & Project Manager** Interested in **AI, NLP, CV, HCI and Embedded Computer**
 
