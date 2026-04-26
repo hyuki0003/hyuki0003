@@ -43,13 +43,13 @@
 <br>
 
 ### 📄 In Progress
-- D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee and Y.-S. Choi et al., "Wearable Multimodal Physiomarkers for Graded Alcohol Craving Recognition: An Explainable AI Approach," *IEEE Journal of Biomedical and Health Informaticss (JBHI),* 2026
 - **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement," *IEEE Journal of Biomedical and Health Informaticss (JBHI),* 2026
 
 <br>
 
 ### 📄 Under review
 - D. H. Kim, **D.-H. Lee** and Y.-S. Choi, "Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition," *IEEE Transactions on Affective Computing,* 2026
+- D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee and Y.-S. Choi et al., "Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation," *IEEE Journal of Biomedical and Health Informaticss (JBHI),* 2026
 
 <br>
 
