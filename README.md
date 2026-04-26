@@ -49,7 +49,7 @@
 <br>
 
 ### 📄 Under review
-- D. H. Kim, **D.-H. Lee** and Y.-S. Choi, "Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition," *IEEE Affective Computing,* 2026
+- D. H. Kim, **D.-H. Lee** and Y.-S. Choi, "Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition," *IEEE Transactions on Affective Computing,* 2026
 
 <br>
 
