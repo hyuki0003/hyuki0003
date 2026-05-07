@@ -60,7 +60,7 @@
 - **D.-H. Lee**, Y.-S. Choi, "Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention," *Summer Annual Conference of IEIE,* Jun., 2025.
 - **D.-H. Lee**, D. H. Kim, and Y.-S. Choi, "Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning," International Conference on Electronics, Information, and Communication (ICEIC), Jan., 2025.
 - **D.-H. Lee**, Y.-S. Choi, "Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer," *Summer Annual Conference of IEIE,* Jun., 2024.
-- D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance," *Autumn Annual Conference of KOSOMBE,* May, 2024.
+- D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance," *Spring Annual Conference of KOSOMBE,* May, 2024.
   
 <br>
 
