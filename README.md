@@ -88,60 +88,6 @@ class DongHyukLee(AIResearcher):
 
 </div>
 
-### 2.3 · Research Journey
-
-*사람의 신호(영상·대화·생체신호)에서 의미를 읽어내는 표현학습 — 그 끝은 심장입니다.*
-
-```mermaid
-flowchart LR
-    subgraph Signals["📡 Human Signals"]
-        V["🎥 Facial Video"]
-        M["💬 Conversation<br/><sub>Audio · Text · Vision</sub>"]
-        W["⌚ Wearable<br/>Biosignals"]
-    end
-
-    subgraph Methods["🧠 Representation Learning"]
-        CL["Contrastive Learning<br/><sub>Balanced CL · Global-Local CL<br/>Inter-Dialog CL</sub>"]
-        AT["Spatio-Temporal Maps<br/>× Cross Attention"]
-        GR["Multimodal Graph<br/>Representation"]
-    end
-
-    subgraph Apps["🎯 Applications"]
-        HR["❤️ Remote Heart Rate<br/>Estimation (rPPG)<br/><sub>ICEIC · IEIE · JBHI · Patent</sub>"]
-        ER["😊 Emotion Recognition<br/>in Conversations<br/><sub>ICASSP Oral · KOSOMBE Award</sub>"]
-        BM["🍷 Craving-State<br/>Physiomarkers<br/><sub>IEIE · JBHI</sub>"]
-    end
-
-    V --> CL & AT
-    M --> CL & GR
-    W --> BM
-    CL --> HR & ER
-    AT --> HR
-    GR --> ER
-
-    HR --> NOW(["🫀 ECG Clinical AI<br/><sub>@ Medical AI — Now</sub>"])
-    ER --> NOW
-    BM --> NOW
-
-    style V fill:#0d1117,stroke:#ee4c2c,color:#ffb4a2
-    style M fill:#0d1117,stroke:#ff4081,color:#ffc2d4
-    style W fill:#0d1117,stroke:#ff6f00,color:#ffd8a8
-    style CL fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
-    style AT fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
-    style GR fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
-    style HR fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
-    style ER fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
-    style BM fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
-    style NOW fill:#04070a,stroke:#00ff88,color:#00ff88
-    style Signals fill:#04070a,stroke:#1f2937,color:#6b7280
-    style Methods fill:#04070a,stroke:#1f2937,color:#6b7280
-    style Apps fill:#04070a,stroke:#1f2937,color:#6b7280
-```
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<a id="03--publications"></a>
-
 ## 03 · Publications 📚
 
 <sub>★ = first author &nbsp;·&nbsp; 🎤 = oral presentation &nbsp;·&nbsp; 🥇 = award</sub>
