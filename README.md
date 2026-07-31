@@ -49,7 +49,7 @@ class DongHyukLee(AIResearcher):
     def research(self, ecg: Signal) -> ClinicalInsight:
         return {
             "disease_screening": "Multi-label cardiac abnormality detection",
-            "foundation_model":       "Construct & Optimize ECG foundation model",
+            "foundation_model":  "Construct & Optimize ECG foundation model",
             "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
         }
 ```
