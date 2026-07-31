@@ -214,9 +214,6 @@ class DongHyukLee(AIResearcher):
 
 </div>
 
-> [!TIP]
-> Generated daily from the GitHub API by `.github/workflows/stats.yml` — no third-party service, so it never breaks.
-
 <img src="./assets/divider.svg" width="100%"/>
 
 <img src="./assets/h08_contact.svg" width="100%" alt="Contact"/>
