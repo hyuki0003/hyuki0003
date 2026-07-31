@@ -25,6 +25,17 @@
 
 > **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
 
+```
+┌─ ECG REPORT ───────────────────────────────────────────────┐
+│  NAME       Dong-Hyuk Lee                                  │
+│  ROLE       AI Researcher  ·  Medical AI Co., Ltd.         │
+│  DEPT       AI Group, R&D Dept.                            │
+│  FOCUS      ECG × Deep Learning                            │
+│  PRIOR      Kwangwoon Univ.  ·  NeuroAI Lab.               │
+│  STATUS     ● RECORDING                                    │
+└─────────────────────────────────────────────────── LEAD II ┘
+```
+
 I'm an **AI Researcher** at [**Medical AI Co., Ltd.**](https://www.medicalai.com/ko/), building deep learning systems that read what the human eye cannot — from the **ECG**.
 
 My research sits at the intersection of **representation learning** and **physiological signals**: I design contrastive and multimodal objectives that pull clinically meaningful structure out of raw biosignals.
@@ -50,6 +61,14 @@ class DongHyukLee(AIResearcher):
 ## 02 · Research Focus 🎯
 
 ### 2.1 · Current Directions
+
+```
+┌─ INTERPRETATION ───────────────────────────────────────────┐
+│ Representation learning on physiological signals.          │
+│ Contrastive and multimodal objectives that pull            │
+│ clinically meaningful structure out of raw biosignals.     │
+└────────────────────────────────────────────── SINUS RHYTHM ┘
+```
 
 | | Direction | Description |
 | :---: | :--- | :--- |
@@ -80,22 +99,28 @@ class DongHyukLee(AIResearcher):
 
 ## 03 · Publications 📚
 
-<sub>★ = first author &nbsp;·&nbsp; 🎤 = oral presentation &nbsp;·&nbsp; 🥇 = award</sub>
+```
+┌─ LEGEND ───────────────────────────────────────────────────┐
+│  *  first author           +  oral presentation            │
+│  o  award                  ?  under review                 │
+│  ~  in progress                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
 ### 3.1 · Journal Articles
 
 | Status | Venue | Title |
 | :--- | :--- | :--- |
-| 🖋️ In Progress | **IEEE JBHI** '26 | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement* |
-| 🔍 Under Review | **IEEE TAFFC** '26 | D. H. Kim, **D.-H. Lee**, Y.-S. Choi — *Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition* |
-| 🔍 Under Review | **IEEE JBHI** '26 | D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation* |
+| ~ In Progress | **IEEE JBHI** '26 | * **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement* |
+| ? Under Review | **IEEE TAFFC** '26 | D. H. Kim, **D.-H. Lee**, Y.-S. Choi — *Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition* |
+| ? Under Review | **IEEE JBHI** '26 | D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation* |
 
 ### 3.2 · International Conferences
 
 | Year | Venue | Title |
 | :--- | :--- | :--- |
-| 2026 | **ICASSP** 🎤 | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations* |
-| 2025 | **ICEIC** | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning* |
+| 2026 | **ICASSP** + | * **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations* |
+| 2025 | **ICEIC** | * **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning* |
 
 ### 3.3 · Domestic Conferences
 
@@ -107,16 +132,16 @@ class DongHyukLee(AIResearcher):
 | Date | Venue | Title |
 | :--- | :--- | :--- |
 | 2025.11 | IEIE Autumn | M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder* |
-| 2025.06 | IEIE Summer | ★ **D.-H. Lee**, Y.-S. Choi — *Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention* |
+| 2025.06 | IEIE Summer | * **D.-H. Lee**, Y.-S. Choi — *Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention* |
 | 2025.06 | IEIE Summer | M. S. Lee, J.-Y. Lee, **D.-H. Lee**, D. H. Kim, Y.-S. Choi, et al. — *A Study on the Exploration of Physiological Biomarkers for Classifying Alcohol Craving Levels Based on Heart Rate Responses* |
-| 2024.06 | IEIE Summer | ★ **D.-H. Lee**, Y.-S. Choi — *Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer* |
-| 2024.05 | KOSOMBE Spring 🥇 | D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al. — *Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance* |
+| 2024.06 | IEIE Summer | * **D.-H. Lee**, Y.-S. Choi — *Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer* |
+| 2024.05 | KOSOMBE Spring o | D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al. — *Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance* |
 
 </details>
 
 ### 3.4 · Thesis
 
-★ **D.-H. Lee**, *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations*, **M.S. Thesis**, Kwangwoon University, Dec. 2025.
+* **D.-H. Lee**, *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations*, **M.S. Thesis**, Kwangwoon University, Dec. 2025.
 
 ### 3.5 · Patents
 
@@ -190,11 +215,16 @@ class DongHyukLee(AIResearcher):
 
 <img src="./assets/divider-8.svg" width="100%"/>
 
+```
+┌─ END OF RECORD ────────────────────────────────────────────┐
+│ Open to research collaboration                             │
+│ ECG AI · Biosignal Processing · Clinical Deep Learning     │
+│                                                            │
+│ hyuki0003@gmail.com                                        │
+└────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-
-<sub>💌 Open to research collaboration on <b>ECG AI · Biosignal Processing · Clinical Deep Learning</b></sub>
-
-<br>
 
 <a href="mailto:hyuki0003@gmail.com"><b>hyuki0003@gmail.com</b></a>
 
