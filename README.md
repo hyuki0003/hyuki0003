@@ -93,9 +93,6 @@ class DongHyukLee(AIResearcher):
 
 ### 2.3 · Research Journey
 
-> [!NOTE]
-> 사람의 신호(영상 · 대화 · 생체신호)에서 의미를 읽어내는 표현학습 — 그 끝은 심장입니다.
-
 | Signal | Method | Application | Venue |
 | :--- | :--- | :--- | :--- |
 | **Facial Video** | Balanced CL · Global-Local CL <br> <sub>Spatio-Temporal Maps × Cross-Attention</sub> | Remote Heart Rate Estimation <br> <sub>rPPG</sub> | `ICEIC '25` `IEIE '24·'25` <br> <sub>JBHI in progress · Patent filed</sub> |
