@@ -47,7 +47,6 @@ class DongHyukLee(AIResearcher):
     def research(self, ecg: Signal) -> ClinicalInsight:
         return {
             "disease_screening": "Multi-label cardiac abnormality detection",
-            "cardiac_age":       "Biological heart age estimation",
             "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
         }
 ```
