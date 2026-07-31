@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚡ Custom animated ECG monitor header (assets/header.svg) -->
-<img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
+<img src="./assets/header (2).svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
 
 <br>
 
