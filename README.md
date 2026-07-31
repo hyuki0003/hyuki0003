@@ -27,10 +27,12 @@
 <a id="01--about"></a>
 
 ## 01 · About 🫀
+
 <!-- Typing Animation -->
 <a href="https://github.com/hyuki0003">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=640&lines=AI+Researcher+%40+Medical+AI+Co.%2C+Ltd.;Decoding+Diseases+from+the+Heartbeat+%F0%9F%AB%80;Cardiac+Age+%C2%B7+Diagnosis+%C2%B7+Beyond+the+Waveform;Biosignals+%E2%86%92+Deep+Learning+%E2%86%92+Clinical+Impact" alt="Typing SVG" />
 </a>
+
 > **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
 
 I'm an **AI Researcher** at [**Medical AI Co., Ltd.**](https://www.medicalai.com/ko/), building deep learning systems that read what the human eye cannot — from the **ECG**.
