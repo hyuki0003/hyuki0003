@@ -40,20 +40,6 @@ I'm an **AI Researcher** at [**Medical AI Co., Ltd.**](https://www.medicalai.com
 
 My research sits at the intersection of **representation learning** and **physiological signals**: I design contrastive and multimodal objectives that pull clinically meaningful structure out of raw biosignals.
 
-```python
-class DongHyukLee(AIResearcher):
-    def __init__(self):
-        self.affiliation = "Medical AI Co., Ltd. — AI Group, R&D Dept."
-        self.mission     = "From waveform to diagnosis"
-
-    def research(self, ecg: Signal) -> ClinicalInsight:
-        return {
-            "disease_screening": "Multi-label cardiac abnormality detection",
-            "cardiac_age":       "Biological heart age estimation",
-            "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
-        }
-```
-
 <img src="./assets/divider.svg" width="100%"/>
 
 <a id="02--research-focus"></a>
