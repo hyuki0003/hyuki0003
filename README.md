@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ⚡ Custom animated ECG monitor header (assets/header.svg) -->
-<img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
+<!-- Animated ECG monitor header -->
+<img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG x Deep Learning"/>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-**[01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Stats](#07--github-stats)**
+**[01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Readout](#07--github-readout)**
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <a id="01--about"></a>
 
-## 01 · About 🫀
+<img src="./assets/h01_about.svg" width="100%" alt="01 · About"/>
 
 > **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
 
@@ -58,7 +58,7 @@ class DongHyukLee(AIResearcher):
 
 <a id="02--research-focus"></a>
 
-## 02 · Research Focus 🎯
+<img src="./assets/h02_research.svg" width="100%" alt="02 · Research Focus"/>
 
 ### 2.1 · Current Directions
 
@@ -70,11 +70,11 @@ class DongHyukLee(AIResearcher):
 └────────────────────────────────────────────── SINUS RHYTHM ┘
 ```
 
-| | Direction | Description |
-| :---: | :--- | :--- |
-| 🩺 | **ECG-based Diagnosis** | 다양한 심장 질환을 딥러닝으로 스크리닝 |
-| ⏳ | **Cardiac Age Estimation** | 심전도에 새겨진 심장의 생물학적 나이 |
-| 🔬 | **Beyond the Waveform** | 파형 너머의 생리학적 상태를 찾아내는 표현학습 |
+| Direction | Description |
+| :--- | :--- |
+| **ECG-based Diagnosis** | 다양한 심장 질환을 딥러닝으로 스크리닝 |
+| **Cardiac Age Estimation** | 심전도에 새겨진 심장의 생물학적 나이 |
+| **Beyond the Waveform** | 파형 너머의 생리학적 상태를 찾아내는 표현학습 |
 
 ### 2.2 · Keywords
 
@@ -88,16 +88,16 @@ class DongHyukLee(AIResearcher):
 
 | Signal | Method | Application | Venue |
 | :--- | :--- | :--- | :--- |
-| 🎥 **Facial Video** | Balanced CL, Global-Local CL <br> Spatio-Temporal Maps × Cross-Attention | Remote Heart Rate Estimation (rPPG) | ICEIC '25 · IEIE '24, '25 <br> JBHI (in progress) · Patent |
-| 💬 **Conversation** <br> <sub>Audio · Text · Vision</sub> | Inter-Dialog CL <br> Multimodal Graph Representation | Emotion Recognition in Conversations | **ICASSP '26 (Oral)** <br> KOSOMBE '24 🥇 · TAFFC (review) |
-| ⌚ **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | IEIE '25 · JBHI (review) |
-| 🫀 **ECG** <br> <sub>← now</sub> | Foundation model adaptation <br> Multi-label / multi-task learning | Disease screening · Cardiac age <br> Hidden physiological states | @ Medical AI Co., Ltd. |
+| **Facial Video** | Balanced CL, Global-Local CL <br> Spatio-Temporal Maps × Cross-Attention | Remote Heart Rate Estimation (rPPG) | ICEIC '25 · IEIE '24, '25 <br> JBHI (in progress) · Patent |
+| **Conversation** <br> <sub>Audio · Text · Vision</sub> | Inter-Dialog CL <br> Multimodal Graph Representation | Emotion Recognition in Conversations | **ICASSP '26 (Oral)** <br> KOSOMBE '24 · TAFFC (review) |
+| **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | IEIE '25 · JBHI (review) |
+| **ECG** <br> <sub>← now</sub> | Foundation model adaptation <br> Multi-label / multi-task learning | Disease screening · Cardiac age <br> Hidden physiological states | @ Medical AI Co., Ltd. |
 
 <img src="./assets/divider.svg" width="100%"/>
 
 <a id="03--publications"></a>
 
-## 03 · Publications 📚
+<img src="./assets/h03_publications.svg" width="100%" alt="03 · Publications"/>
 
 ```
 ┌─ LEGEND ───────────────────────────────────────────────────┐
@@ -153,14 +153,14 @@ class DongHyukLee(AIResearcher):
 
 <a id="04--experience"></a>
 
-## 04 · Experience 🏛️
+<img src="./assets/h04_experience.svg" width="100%" alt="04 · Experience"/>
 
 ### 4.1 · Career
 
 | Period | Position |
 | :--- | :--- |
-| **2026.04 —** <br> **Present** | 🏥 **AI Researcher** <br> [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) — AI Group, R&D Dept. <br> <sub>ECG foundation models · multi-label disease classification · cardiac age estimation</sub> |
-| **2024.03 —** <br> **2026.02** | 🎓 **Graduate Researcher** <br> Kwangwoon Univ. [NeuroAI Lab.](https://sites.google.com/view/neuroailab/home) <br> <sub>Multimodal emotion recognition · remote physiological sensing (rPPG)</sub> |
+| **2026.04 —** <br> **Present** | **AI Researcher** <br> [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) — AI Group, R&D Dept. <br> <sub>ECG foundation models · multi-label disease classification · cardiac age estimation</sub> |
+| **2024.03 —** <br> **2026.02** | **Graduate Researcher** <br> Kwangwoon Univ. [NeuroAI Lab.](https://sites.google.com/view/neuroailab/home) <br> <sub>Multimodal emotion recognition · remote physiological sensing (rPPG)</sub> |
 
 ### 4.2 · Education
 
@@ -174,23 +174,23 @@ class DongHyukLee(AIResearcher):
 
 <a id="05--awards--milestones"></a>
 
-## 05 · Awards & Milestones 🏆
+<img src="./assets/h05_awards.svg" width="100%" alt="05 · Awards and Milestones"/>
 
 | Date | Milestone |
 | :--- | :--- |
-| **2026.04** | 🏥 Joined **Medical AI Co., Ltd.** as an AI Researcher — diving into ECG deep learning |
-| **2026.03** | 🎤 **ICASSP 2026** paper selected for **oral presentation** — see you in Barcelona 🇪🇸 |
-| **2026.02** | 🎓 Graduated from **NeuroAI Lab.**, Kwangwoon University |
-| **2026.01** | 🎉 *Inter-Dialog Contrastive Learning* **accepted to ICASSP 2026** |
-| **2025.09** | 📜 Patent filed — rPPG with blood-flow-direction-aware ST maps |
-| **2024.05** | 🥇 **Best Poster Award**, KOSOMBE 2024 |
-| **2024.03** | 🏫 Joined **NeuroAI Lab.**, Kwangwoon University |
+| **2026.04** | Joined **Medical AI Co., Ltd.** as an AI Researcher — diving into ECG deep learning |
+| **2026.03** | `ORAL` **ICASSP 2026** paper selected for oral presentation — see you in Barcelona |
+| **2026.02** | Graduated from **NeuroAI Lab.**, Kwangwoon University |
+| **2026.01** | *Inter-Dialog Contrastive Learning* accepted to **ICASSP 2026** |
+| **2025.09** | Patent filed — rPPG with blood-flow-direction-aware ST maps |
+| **2024.05** | `AWARD` **Best Poster Award**, KOSOMBE 2024 |
+| **2024.03** | Joined **NeuroAI Lab.**, Kwangwoon University |
 
 <img src="./assets/divider.svg" width="100%"/>
 
 <a id="06--tech-stack"></a>
 
-## 06 · Tech Stack 🛠️
+<img src="./assets/h06_stack.svg" width="100%" alt="06 · Tech Stack"/>
 
 | Category | Stack |
 | :--- | :--- |
@@ -202,13 +202,13 @@ class DongHyukLee(AIResearcher):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<a id="07--github-stats"></a>
+<a id="07--github-readout"></a>
 
-## 07 · GitHub Stats 📊
+<img src="./assets/h07_stats.svg" width="100%" alt="07 · GitHub Readout"/>
 
 <div align="center">
 
-<img src="./assets/stats.svg" width="82%" alt="GitHub stats"/>
+<img src="./assets/stats.svg" width="94%" alt="GitHub stats"/>
 
 </div>
 
@@ -216,12 +216,12 @@ class DongHyukLee(AIResearcher):
 
 <img src="./assets/divider.svg" width="100%"/>
 
+<img src="./assets/h08_contact.svg" width="100%" alt="Contact"/>
+
 ```
 ┌─ END OF RECORD ────────────────────────────────────────────┐
 │ Open to research collaboration                             │
 │ ECG AI · Biosignal Processing · Clinical Deep Learning     │
-│                                                            │
-│ hyuki0003@gmail.com                                        │
 └────────────────────────────────────────────────────────────┘
 ```
 
