@@ -147,7 +147,7 @@ My research sits at the intersection of **representation learning** and **physio
 
 | Period | Position |
 | :---: | :--- |
-| **2026.04** <br> `PRESENT` | **AI Researcher** &nbsp; — &nbsp; [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) <br> <sub>AI Group, R&D Dept.</sub> <br> <sub>ECG foundation models · multi-label disease classification · cardiac age estimation</sub> |
+| **2026.04** <br> `PRESENT` | **AI Researcher** &nbsp; — &nbsp; [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) <br> <sub>AI Group, R&D Dept.</sub> <br> <sub>ECG foundation models · multi-label disease classification · representation learning</sub> |
 | **2024.03** <br> <sub>2026.02</sub> | **Graduate Researcher** &nbsp; — &nbsp; [Kwangwoon Univ. NeuroAI Lab.](https://sites.google.com/view/neuroailab/home) <br> <sub>Advisor: Prof. Young-Seok Choi</sub> <br> <sub>Multimodal emotion recognition · remote physiological sensing (rPPG)</sub> |
 
 ### 4.2 · Education
