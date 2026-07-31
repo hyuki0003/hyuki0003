@@ -1,0 +1,77 @@
+<svg width="1000" height="48" viewBox="0 0 1000 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="90%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="m"><rect width="1000" height="48" fill="url(#fade)"/></mask>
+    <path id="b0" pathLength="1000" d="M 0,34 l 452.75,0 q 7.20,-3.84 16.20,0.00 l 5.40,0.00 l 7.20,5.12 l 5.40,-32.00 l 6.30,20.48 l 12.60,-0.64 q 12.60,-9.60 27.00,0.00 l 14.40,7.04 l 452.75,0 " fill="none"/>
+    <path id="b1" pathLength="1000" d="M 0,34 l 463.55,0 q 7.20,-3.84 16.20,0.00 l 5.40,0.00 l 4.50,3.20 l 5.40,-32.00 l 6.30,35.84 l 4.50,-7.04 l 7.20,0.00 q 10.80,-5.76 23.40,0.00 l 463.55,0 " fill="none"/>
+    <path id="b2" pathLength="1000" d="M 0,34 l 460.85,0 q 6.30,-2.88 13.50,0.00 l 4.50,0.00 l 4.50,2.56 l 6.30,-32.00 l 7.20,39.68 l 4.50,-8.96 l 5.40,1.28 q 12.60,6.40 25.20,0.00 l 7.20,-2.56 l 460.85,0 " fill="none"/>
+    <path id="b3" pathLength="1000" d="M 0,34 l 459.50,0 q 7.20,-3.20 16.20,0.00 l 5.40,0.00 l 4.50,3.20 l 5.40,-31.36 l 6.30,32.64 l 10.80,1.28 q 10.80,6.40 23.40,0.00 l 9.00,-5.76 l 459.50,0 " fill="none"/>
+    <path id="b4" pathLength="1000" d="M 0,34 l 457.25,0 q 7.20,-3.20 16.20,0.00 l 5.40,0.00 l 3.60,2.56 l 5.40,-19.20 l 5.40,9.60 l 7.20,-22.40 l 8.10,34.56 l 5.40,-5.12 l 7.20,0.00 q 10.80,5.12 21.60,0.00 l 457.25,0 " fill="none"/>
+  </defs>
+  <g mask="url(#m)">
+  <use href="#b0" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0.12;0" keyTimes="0;0.2000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b0" stroke="#ffd166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" stroke-dasharray="140 860" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.2000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="140;-1000;-1000" keyTimes="0;0.2000;1" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b1" stroke="#00ff88" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.12;0" keyTimes="0;0.2000;0.4000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b1" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" stroke-dasharray="140 860" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2000;0.4000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="140;140;-1000;-1000" keyTimes="0;0.2000;0.4000;1" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b2" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.12;0" keyTimes="0;0.4000;0.6000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b2" stroke="#ffd166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" stroke-dasharray="140 860" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4000;0.6000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="140;140;-1000;-1000" keyTimes="0;0.4000;0.6000;1" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b3" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.12;0" keyTimes="0;0.6000;0.8000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b3" stroke="#ffd166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" stroke-dasharray="140 860" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6000;0.8000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="140;140;-1000;-1000" keyTimes="0;0.6000;0.8000;1" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b4" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.12;0" keyTimes="0;0.8000;1.0000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#b4" stroke="#ffd166" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)" stroke-dasharray="140 860" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8000;1.0000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="140;140;-1000;-1000" keyTimes="0;0.8000;1.0000;1" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+  </use>
+  <circle r="2.4" fill="#ffd166" filter="url(#g)" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.2000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animateMotion begin="-2.16s" dur="17.3s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.2000;1"><mpath href="#b0"/></animateMotion>
+  </circle>
+  <circle r="2.4" fill="#00ff88" filter="url(#g)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2000;0.4000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animateMotion begin="-2.16s" dur="17.3s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.2000;0.4000;1"><mpath href="#b1"/></animateMotion>
+  </circle>
+  <circle r="2.4" fill="#ffd166" filter="url(#g)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4000;0.6000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animateMotion begin="-2.16s" dur="17.3s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.4000;0.6000;1"><mpath href="#b2"/></animateMotion>
+  </circle>
+  <circle r="2.4" fill="#ffd166" filter="url(#g)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.6000;0.8000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animateMotion begin="-2.16s" dur="17.3s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.6000;0.8000;1"><mpath href="#b3"/></animateMotion>
+  </circle>
+  <circle r="2.4" fill="#ffd166" filter="url(#g)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8000;1.0000" calcMode="discrete" begin="-2.16s" dur="17.3s" repeatCount="indefinite"/>
+    <animateMotion begin="-2.16s" dur="17.3s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.8000;1.0000;1"><mpath href="#b4"/></animateMotion>
+  </circle>
+  </g>
+</svg>
