@@ -1,88 +1,297 @@
 <div align="center">
 
-# 😎 Hi there, I'm Dong-Hyuk Lee
+<!-- ⚡ Custom animated ECG monitor header (assets/header.svg) -->
+<img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
 
-**AI Researcher, Engineer & Programmer** Interested in **Biosignal Processing, eXplainable AI and Human-Computer Interaction**
+<br><br>
 
+<!-- Typing Animation -->
+<a href="https://github.com/hyuki0003">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=640&lines=AI+Researcher+%40+Medical+AI+Co.%2C+Ltd.;Decoding+Diseases+from+the+Heartbeat+%F0%9F%AB%80;Cardiac+Age+%C2%B7+Diagnosis+%C2%B7+Beyond+the+Waveform;Biosignals+%E2%86%92+Deep+Learning+%E2%86%92+Clinical+Impact" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hyuk_i2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyuki0003)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hyuki0003@gmail.com)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyuki0003/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyuki0003@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=hyuki0003&style=flat-square&color=00C7B7&label=Profile+Views"/>
+
+<br><br>
+
+<!-- ───────────── Quick Navigation ───────────── -->
+**[ 01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Stats](#07--github-stats)**
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="01--about"></a>
+
+## 01 · About 🫀
+
+> **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
+
+I'm an **AI Researcher** at [**Medical AI Co., Ltd.**](https://www.medicalai.com/ko/), building deep learning systems that read what the human eye cannot — from the **ECG**.
+
+My research sits at the intersection of **representation learning** and **physiological signals**: I design contrastive and multimodal objectives that pull clinically meaningful structure out of raw biosignals.
+
+```python
+class DongHyukLee(AIResearcher):
+    def __init__(self):
+        self.affiliation = "Medical AI Co., Ltd. — AI Group, R&D Dept."
+        self.mission     = "From waveform to diagnosis"
+
+    def research(self, ecg: Signal) -> ClinicalInsight:
+        return {
+            "disease_screening": "Multi-label cardiac abnormality detection",
+            "cardiac_age":       "Biological heart age estimation",
+            "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
+        }
+```
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="02--research-focus"></a>
+
+## 02 · Research Focus 🎯
+
+### 2.1 · Current Directions
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+🩺<br><b>ECG-based Diagnosis</b><br><sub>다양한 심장 질환을<br>딥러닝으로 스크리닝</sub>
+</td>
+<td align="center" width="33%">
+⏳<br><b>Cardiac Age Estimation</b><br><sub>심전도에 새겨진<br>심장의 생물학적 나이</sub>
+</td>
+<td align="center" width="33%">
+🔬<br><b>Beyond the Waveform</b><br><sub>파형 너머의 생리학적 상태를<br>찾아내는 표현학습</sub>
+</td>
+</tr>
+</table>
+
+### 2.2 · Keywords
+
+<div align="center">
+
+![ECG AI](https://img.shields.io/badge/🫀_ECG_Deep_Learning-EE4C2C?style=for-the-badge)
+![Cardiac Age](https://img.shields.io/badge/⏳_Cardiac_Age_Estimation-FF6F00?style=for-the-badge)
+![Biosignal](https://img.shields.io/badge/📈_Biosignal_Processing-00C7B7?style=for-the-badge)
+<br>
+![Multimodal](https://img.shields.io/badge/🔗_Multimodal_Learning-5C3EE8?style=for-the-badge)
+![XAI](https://img.shields.io/badge/🔍_eXplainable_AI-123456?style=for-the-badge)
+![Emotion](https://img.shields.io/badge/💬_Emotion_Recognition-FF4081?style=for-the-badge)
+
+</div>
+
+### 2.3 · Research Journey
+
+*사람의 신호(영상·대화·생체신호)에서 의미를 읽어내는 표현학습 — 그 끝은 심장입니다.*
+
+```mermaid
+flowchart LR
+    subgraph Signals["📡 Human Signals"]
+        V["🎥 Facial Video"]
+        M["💬 Conversation<br/><sub>Audio · Text · Vision</sub>"]
+        W["⌚ Wearable<br/>Biosignals"]
+    end
+
+    subgraph Methods["🧠 Representation Learning"]
+        CL["Contrastive Learning<br/><sub>Balanced CL · Global-Local CL<br/>Inter-Dialog CL</sub>"]
+        AT["Spatio-Temporal Maps<br/>× Cross Attention"]
+        GR["Multimodal Graph<br/>Representation"]
+    end
+
+    subgraph Apps["🎯 Applications"]
+        HR["❤️ Remote Heart Rate<br/>Estimation (rPPG)<br/><sub>ICEIC · IEIE · JBHI · Patent</sub>"]
+        ER["😊 Emotion Recognition<br/>in Conversations<br/><sub>ICASSP Oral · KOSOMBE Award</sub>"]
+        BM["🍷 Craving-State<br/>Physiomarkers<br/><sub>IEIE · JBHI</sub>"]
+    end
+
+    V --> CL & AT
+    M --> CL & GR
+    W --> BM
+    CL --> HR & ER
+    AT --> HR
+    GR --> ER
+
+    HR --> NOW(["🫀 ECG Clinical AI<br/><sub>@ Medical AI — Now</sub>"])
+    ER --> NOW
+    BM --> NOW
+
+    style V fill:#0d1117,stroke:#ee4c2c,color:#ffb4a2
+    style M fill:#0d1117,stroke:#ff4081,color:#ffc2d4
+    style W fill:#0d1117,stroke:#ff6f00,color:#ffd8a8
+    style CL fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
+    style AT fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
+    style GR fill:#0d1117,stroke:#00c7b7,color:#7ddfc3
+    style HR fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
+    style ER fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
+    style BM fill:#0d1117,stroke:#5c3ee8,color:#c4b5fd
+    style NOW fill:#04070a,stroke:#00ff88,color:#00ff88
+    style Signals fill:#04070a,stroke:#1f2937,color:#6b7280
+    style Methods fill:#04070a,stroke:#1f2937,color:#6b7280
+    style Apps fill:#04070a,stroke:#1f2937,color:#6b7280
+```
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="03--publications"></a>
+
+## 03 · Publications 📚
+
+<sub>★ = first author &nbsp;·&nbsp; 🎤 = oral presentation &nbsp;·&nbsp; 🥇 = award</sub>
+
+### 3.1 · Journal Articles
+
+| Status | Venue | Title |
+| :--- | :--- | :--- |
+| 🖋️ In Progress | **IEEE JBHI** '26 | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement* |
+| 🔍 Under Review | **IEEE TAFFC** '26 | D. H. Kim, **D.-H. Lee**, Y.-S. Choi — *Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition* |
+| 🔍 Under Review | **IEEE JBHI** '26 | D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation* |
+
+### 3.2 · International Conferences
+
+| Year | Venue | Title |
+| :--- | :--- | :--- |
+| 2026 | **ICASSP** 🎤 | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations* |
+| 2025 | **ICEIC** | ★ **D.-H. Lee**, D. H. Kim, Y.-S. Choi — *Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning* |
+
+### 3.3 · Domestic Conferences
+
+<details>
+<summary><b>펼쳐보기 · 5 papers</b></summary>
+
+<br>
+
+| Year | Venue | Title |
+| :--- | :--- | :--- |
+| 2025.11 | IEIE Autumn | M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder* |
+| 2025.06 | IEIE Summer | ★ **D.-H. Lee**, Y.-S. Choi — *Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention* |
+| 2025.06 | IEIE Summer | M. S. Lee, J.-Y. Lee, **D.-H. Lee**, D. H. Kim, Y.-S. Choi, et al. — *A Study on the Exploration of Physiological Biomarkers for Classifying Alcohol Craving Levels Based on Heart Rate Responses* |
+| 2024.06 | IEIE Summer | ★ **D.-H. Lee**, Y.-S. Choi — *Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer* |
+| 2024.05 | KOSOMBE Spring 🥇 | D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al. — *Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance* |
+
+</details>
+
+### 3.4 · Thesis
+
+- ★ **D.-H. Lee**, *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations*, **M.S. Thesis**, Kwangwoon University, Dec. 2025.
+
+### 3.5 · Patents
+
+- **Y.-S. Choi, D.-H. Lee**, "생리학적 혈류 방향 기반 시공간 특징맵과 교차 주의 집중을 이용한 비접촉 원격 심박수 추정 시스템" <br>
+  <sub>*(Remote Heart Rate Estimation System with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention)*</sub> <br>
+  <sub>Application No. `10-2025-0123545` · Filed 2025.09.01</sub>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="04--experience"></a>
+
+## 04 · Experience 🏛️
+
+### 4.1 · Career
+
+| Period | Position |
+| :--- | :--- |
+| **2026.04 —** <br> **Present** | 🏥 **AI Researcher** <br> [Medical AI Co., Ltd.](https://www.medicalai.com/ko/) — AI Group, R&D Dept. <br> <sub>ECG foundation models · multi-label disease classification · cardiac age estimation</sub> |
+| **2024.03 —** <br> **2026.02** | 🎓 **Graduate Researcher** <br> Kwangwoon Univ. [NeuroAI Lab.](https://sites.google.com/view/neuroailab/home) <br> <sub>Multimodal emotion recognition · remote physiological sensing (rPPG)</sub> |
+
+### 4.2 · Education
+
+| Degree | Field | Institution |
+| :--- | :--- | :--- |
+| **M.S.** | Electronics and Communication Engineering <br> <sub>Advisor: Prof. Young-Seok Choi</sub> | Kwangwoon University |
+| **B.S.** | Computer Software Engineering | Hansung University |
+| **B.S.** | IT Convergence Engineering | Hansung University |
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="05--awards--milestones"></a>
+
+## 05 · Awards & Milestones 🏆
+
+| Date | Milestone |
+| :--- | :--- |
+| **2026.04** | 🏥 Joined **Medical AI Co., Ltd.** as an AI Researcher — diving into ECG deep learning |
+| **2026.03** | 🎤 **ICASSP 2026** paper selected for **oral presentation** — see you in Barcelona 🇪🇸 |
+| **2026.02** | 🎓 Graduated from **NeuroAI Lab.**, Kwangwoon University |
+| **2026.01** | 🎉 *Inter-Dialog Contrastive Learning* **accepted to ICASSP 2026** |
+| **2025.09** | 📜 Patent filed — rPPG with blood-flow-direction-aware ST maps |
+| **2024.05** | 🥇 **Best Poster Award**, KOSOMBE 2024 |
+| **2024.03** | 🏫 Joined **NeuroAI Lab.**, Kwangwoon University |
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="06--tech-stack"></a>
+
+## 06 · Tech Stack 🛠️
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,sklearn,latex&theme=dark" />
+
+**Data · Vision · Environment**
+
+<img src="https://skillicons.dev/icons?i=opencv,git,vscode,ubuntu,windows,mysql&theme=dark" />
+
+<br>
+
+**Libraries & MLOps**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<a id="07--github-stats"></a>
+
+## 07 · GitHub Stats 📊
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hyuki0003&theme=darkhub&no-frame=true&column=7&margin-w=6" width="100%"/>
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hyuki0003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&icon_color=00c7b7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuki0003&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&text_color=c9d1d9" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyuki0003&hide_border=true&background=04070a&ring=00ff88&fire=EE4C2C&currStreakLabel=00c7b7&sideLabels=7ddfc3&sideNums=ffffff&currStreakNum=00ff88&dates=566573" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyuki0003&bg_color=04070a&color=7ddfc3&line=00ff88&point=ee4c2c&area=true&area_color=0e2419&hide_border=true&custom_title=Contribution%20Waveform%20%F0%9F%AB%80" width="100%"/>
+
 </div>
 
 <br>
 
-## 💼 Career
-- AI Researcher @ [**Medical AI Co., Ltd.**](https://www.medicalai.com/ko/) AI Group, R&D Dept. (2026.04 ~ Present)
-- Graduate Student @ **Kwangwoon University** | [**Neuro AI Lab.**](https://sites.google.com/view/neuroailab/home) (2024.03 ~ 2026.02)
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<sub>💌 Open to research collaboration on <b>ECG AI · Biosignal Processing · Clinical Deep Learning</b></sub>
 
 <br>
 
-## 🎓 Education
-- **M.S.** in Electronics and Communication Engineering, **Kwangwoon University**
-- **B.S.** in Computer Software Engineering, **Hansung University**
-- **B.S.** in IT Convergence Engineering, **Hansung University**
-  
-<br>
-  
-## 📢 News
-* **[Apr., 2026]** 🏫 Joined **Medical AI Co., Ltd.**.
-* **[Mar., 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted for an oral presentation at **ICASSP 2026**! See you in Barcelona, Spain!
-* **[Feb., 2026]** 🏫 Graduated **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
-* **[Jan., 2026]** 🎉 Our paper **"INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"** has been accepted to **ICASSP 2026**!
-* **[May, 2024]** 🥇 Our paper **"Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance"** received the **Best Poster Paper Award** at **KOSOMBE 2024**!
-* **[Mar., 2024]** 🏫 Joined **NeuroAI Lab.** at Kwangwoon University (Advisor: Prof. Young-Seok Choi).
+<a href="mailto:hyuki0003@gmail.com"><b>hyuki0003@gmail.com</b></a>
 
-<br>
+<br><br>
 
-## 🏆 Achievement
-- **2024** | **Best Poster Award** (The Korean Society of Medical & Biological Engineering)
-  
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04070a,50:0e2419,100:00ff88&height=120&section=footer" width="100%"/>
 
-### 📄 In Progress
-- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement," *IEEE Journal of Biomedical and Health Informatics (JBHI),* 2026
-
-<br>
-
-### 📄 Under review
-- D. H. Kim, **D.-H. Lee** and Y.-S. Choi, "Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition," *IEEE Transactions on Affective Computing (TAFFC),* 2026
-- D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee and Y.-S. Choi et al., "Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation," *IEEE Journal of Biomedical and Health Informatics (JBHI),* 2026
-
-<br>
-
-### 📄 Journals & Conferences
-- **D.-H. Lee**, D. H. Kim and Y.-S. Choi, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations," *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP),* May, 2026. ***(Oral Presentation)***
-- M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al., "Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder," *Autumn Annual Conference of IEIE,* Nov., 2025.
-- M. S. Lee, J.-Y. Lee, **D.-H. Lee**, D. H. Kim, Y.-S. Choi, et al., "A Study on the Exploration of Physiological Biomarkers for Classifying Alcohol Craving Levels Based on Heart Rate Responses," *Summer Annual Conference of IEIE,* Jun., 2025.
-- **D.-H. Lee**, Y.-S. Choi, "Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention," *Summer Annual Conference of IEIE,* Jun., 2025.
-- **D.-H. Lee**, D. H. Kim, and Y.-S. Choi, "Remote Heart Rate Estimation From Facial Videos With Balanced Contrastive Learning," International Conference on Electronics, Information, and Communication (ICEIC), Jan., 2025.
-- **D.-H. Lee**, Y.-S. Choi, "Contactless Heart Rate Estimation based on Patch Shift fused Video Vision Transformer," *Summer Annual Conference of IEIE,* Jun., 2024.
-- D. H. Kim, M. S. Lee, **D.-H. Lee**, C.-M. Kim, S. S. Park, J.H. Son, Y.-S. Choi, et al., "Emotion Recognition based on Multimodal Graph Representation Learning of Senior Utterance," *Spring Annual Conference of KOSOMBE,* May, 2024.
-  
-<br>
-
-### 📄 Thesis
-- **D.-H. Lee**, "Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations", Master's Thesis, Kwangwoon Univ., Dec., 2025.
-  
-<br>
-
-## 📜 Patents
-- **Y.-S. Choi, D.-H. Lee**, "생리학적 혈류 방향 기반 시공간 특징맵과 교차 주의 집중을 이용한 비접촉 원격 심박수 추정 시스템", "Remote Heart Rate Estimation System with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention"
-    - Application No: `10-2025-0123545` (2025.09.01)
-      
-<br>
-
-## 💻 Tech Stack
-| Category | Skills |
-| :--- | :--- |
-| **Research Interests** | ![NLP](https://img.shields.io/badge/NLP-123456?style=flat-square) ![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square) ![Emotion Recognition](https://img.shields.io/badge/Emotion_Recognition-FF4081?style=flat-square) <br> ![Biosignal Analysis](https://img.shields.io/badge/Biosignal_Analysis-00C7B7?style=flat-square) ![Multimodal Learning](https://img.shields.io/badge/Multimodal_Learning-FF6F00?style=flat-square) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
-| **AI & Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Data & Vision** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **OS & DB** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-
-<br>
+</div>
