@@ -1,0 +1,100 @@
+<svg width="1000" height="46" viewBox="0 0 1000 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="dGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="edgeFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="7%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="93%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edgeMask"><rect width="1000" height="46" fill="url(#edgeFade)"/></mask>
+    <path id="dv_NORM" pathLength="1000" d="M 0,32 l 14.00,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-30.00 l 4.90,33.60 l 3.50,-6.60 l 5.60,0.00 q 8.40,-5.40 18.20,0.00 l 50.40,0 l 22.10,0 " fill="none"/>
+    <path id="dv_MI" pathLength="1000" d="M 0,32 l 14.00,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 q 5.60,-3.60 12.60,0.00 l 4.20,0.00 l 5.60,4.80 l 4.20,-30.00 l 4.90,19.20 l 9.80,-0.60 q 9.80,-9.00 21.00,0.00 l 11.20,6.60 l 45.36,0 l 35.12,0 " fill="none"/>
+    <path id="dv_STTC" pathLength="1000" d="M 0,32 l 14.00,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 3.50,3.00 l 4.20,-29.40 l 4.90,30.60 l 8.40,1.20 q 8.40,6.00 18.20,0.00 l 7.00,-5.40 l 47.88,0 l 98.96,0 " fill="none"/>
+    <path id="dv_CD" pathLength="1000" d="M 0,32 l 14.00,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 q 5.60,-3.00 12.60,0.00 l 4.20,0.00 l 2.80,2.40 l 4.20,-18.00 l 4.20,9.00 l 5.60,-21.00 l 6.30,32.40 l 4.20,-4.80 l 5.60,0.00 q 8.40,4.80 16.80,0.00 l 47.88,0 l 70.96,0 " fill="none"/>
+    <path id="dv_HYP" pathLength="1000" d="M 0,32 l 14.00,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 q 4.90,-2.70 10.50,0.00 l 3.50,0.00 l 3.50,2.40 l 4.90,-30.00 l 5.60,37.20 l 3.50,-8.40 l 4.20,1.20 q 9.80,6.00 19.60,0.00 l 5.60,-2.40 l 50.40,0 l 95.60,0 " fill="none"/>
+    <path id="dv_ASYS" pathLength="1000" d="M 0,32 l 300.00,0 q 8,-2 16,0 l 330.00,0 q 8,-2 16,0 l 338.00,0 " fill="none"/>
+  </defs>
+  <g mask="url(#edgeMask)">
+  <use href="#dv_NORM" stroke="#00ff88" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0.13;0" keyTimes="0;0.1429" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_NORM" stroke="#00ff88" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.1429" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;0;0" keyTimes="0;0.1206;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_MI" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.1429;0.2857" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_MI" stroke="#ffd166" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1429;0.2857" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.1429;0.2635;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_STTC" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.2857;0.4286" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_STTC" stroke="#ffd166" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2857;0.4286" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.2857;0.4063;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_NORM" stroke="#00ff88" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.4286;0.5714" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_NORM" stroke="#00ff88" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4286;0.5714" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.4286;0.5492;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_CD" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.5714;0.7143" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_CD" stroke="#ffd166" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5714;0.7143" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.5714;0.6921;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_HYP" stroke="#ffd166" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_HYP" stroke="#ffd166" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.7143;0.8349;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_ASYS" stroke="#ff3355" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.13;0" keyTimes="0;0.8571;1.0000" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#dv_ASYS" stroke="#ff3355" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" filter="url(#dGlow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8571;1.0000" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.8571;0.9778;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <circle r="2.6" fill="#00ff88" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.1206" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.1206;1"><mpath href="#dv_NORM"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#ffd166" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1429;0.2635" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.1429;0.2635;1"><mpath href="#dv_MI"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#ffd166" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2857;0.4063" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.2857;0.4063;1"><mpath href="#dv_STTC"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#00ff88" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4286;0.5492" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.4286;0.5492;1"><mpath href="#dv_NORM"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#ffd166" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5714;0.6921" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.5714;0.6921;1"><mpath href="#dv_CD"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#ffd166" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.7143;0.8349" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.7143;0.8349;1"><mpath href="#dv_HYP"/></animateMotion>
+  </circle>
+  <circle r="2.6" fill="#ff3355" filter="url(#dGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8571;0.9778" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.8571;0.9778;1"><mpath href="#dv_ASYS"/></animateMotion>
+  </circle>
+  </g>
+</svg>
