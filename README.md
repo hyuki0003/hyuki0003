@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="./assets/divider-1.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="01--about"></a>
 
@@ -54,7 +54,7 @@ class DongHyukLee(AIResearcher):
         }
 ```
 
-<img src="./assets/divider-2.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="02--research-focus"></a>
 
@@ -93,7 +93,7 @@ class DongHyukLee(AIResearcher):
 | ⌚ **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | IEIE '25 · JBHI (review) |
 | 🫀 **ECG** <br> <sub>← now</sub> | Foundation model adaptation <br> Multi-label / multi-task learning | Disease screening · Cardiac age <br> Hidden physiological states | @ Medical AI Co., Ltd. |
 
-<img src="./assets/divider-3.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="03--publications"></a>
 
@@ -149,7 +149,7 @@ class DongHyukLee(AIResearcher):
 <br><sub>*(Remote Heart Rate Estimation System with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention)*</sub>
 <br><sub>Application No. `10-2025-0123545` · Filed 2025.09.01</sub>
 
-<img src="./assets/divider-4.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="04--experience"></a>
 
@@ -170,7 +170,7 @@ class DongHyukLee(AIResearcher):
 | **B.S.** | Computer Software Engineering | Hansung University |
 | **B.S.** | IT Convergence Engineering | Hansung University |
 
-<img src="./assets/divider-5.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="05--awards--milestones"></a>
 
@@ -186,7 +186,7 @@ class DongHyukLee(AIResearcher):
 | **2024.05** | 🥇 **Best Poster Award**, KOSOMBE 2024 |
 | **2024.03** | 🏫 Joined **NeuroAI Lab.**, Kwangwoon University |
 
-<img src="./assets/divider-6.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="06--tech-stack"></a>
 
@@ -200,7 +200,7 @@ class DongHyukLee(AIResearcher):
 | **MLOps & Infra** | `Ray` · `MLflow` · `Jupyter` |
 | **Environment** | `Ubuntu` · `Windows` · `Git` · `VS Code` · `MySQL` |
 
-<img src="./assets/divider-7.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <a id="07--github-stats"></a>
 
@@ -213,7 +213,7 @@ class DongHyukLee(AIResearcher):
 
 </div>
 
-<img src="./assets/divider-8.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ```
 ┌─ END OF RECORD ────────────────────────────────────────────┐
