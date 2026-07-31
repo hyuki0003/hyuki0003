@@ -3,7 +3,7 @@
 <!-- Animated ECG monitor header -->
 <img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG x Deep Learning"/>
 
-<br>
+<br><br>
 
 [LinkedIn](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/) ·
 [Notion](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link) ·
