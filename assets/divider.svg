@@ -1,0 +1,25 @@
+<svg width="1000" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="dGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="dividerPath" d="M 0,22
+      l 380,0 l 10,-6 l 10,6 l 20,0 l 8,5 l 10,-24 l 10,30 l 8,-11 l 20,0 l 10,6 l 10,-6 l 384,0"/>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#00ff88" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#00ff88" stop-opacity="1"/>
+      <stop offset="82%" stop-color="#00ff88" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <use href="#dividerPath" fill="none" stroke="url(#fade)" stroke-width="1.6" opacity="0.35"/>
+  <use href="#dividerPath" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" filter="url(#dGlow)" pathLength="1000" stroke-dasharray="120 880">
+    <animate attributeName="stroke-dashoffset" from="1000" to="-1000" dur="5s" repeatCount="indefinite"/>
+  </use>
+</svg>

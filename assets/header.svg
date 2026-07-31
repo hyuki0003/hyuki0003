@@ -1,0 +1,161 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="gridSmall" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#0c1a14" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="gridLarge" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="url(#gridSmall)"/>
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#12301f" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="ep_NORM" pathLength="1000" d="M 0,196 l 24,0 q 8,-12 18,0 l 6,0 l 5,10 l 6,-100 l 7,112 l 5,-22 l 8,0 q 12,-18 26,0 l 100,0 q 8,-12 18,0 l 6,0 l 5,10 l 6,-100 l 7,112 l 5,-22 l 8,0 q 12,-18 26,0 l 100,0 q 8,-12 18,0 l 6,0 l 5,10 l 6,-100 l 7,112 l 5,-22 l 8,0 q 12,-18 26,0 l 100,0 q 8,-12 18,0 l 6,0 l 5,10 l 6,-100 l 7,112 l 5,-22 l 8,0 q 12,-18 26,0 l 100,0 q 8,-12 18,0 l 6,0 l 5,10 l 6,-100 l 7,112 l 5,-22 l 8,0 q 12,-18 26,0 l 100,0 l 71,0 " fill="none"/>
+    <path id="ep_MI" pathLength="1000" d="M 0,196 l 24,0 q 8,-12 18,0 l 6,0 l 8,16 l 6,-100 l 7,64 l 14,-2 q 14,-30 30,0 l 16,22 l 90,0 q 8,-12 18,0 l 6,0 l 8,16 l 6,-100 l 7,64 l 14,-2 q 14,-30 30,0 l 16,22 l 90,0 q 8,-12 18,0 l 6,0 l 8,16 l 6,-100 l 7,64 l 14,-2 q 14,-30 30,0 l 16,22 l 90,0 q 8,-12 18,0 l 6,0 l 8,16 l 6,-100 l 7,64 l 14,-2 q 14,-30 30,0 l 16,22 l 90,0 l 196,0 " fill="none"/>
+    <path id="ep_STTC" pathLength="1000" d="M 0,196 l 24,0 q 8,-10 18,0 l 6,0 l 5,10 l 6,-98 l 7,102 l 12,4 q 12,20 26,0 l 10,-18 l 95,0 q 8,-10 18,0 l 6,0 l 5,10 l 6,-98 l 7,102 l 12,4 q 12,20 26,0 l 10,-18 l 95,0 q 8,-10 18,0 l 6,0 l 5,10 l 6,-98 l 7,102 l 12,4 q 12,20 26,0 l 10,-18 l 95,0 q 8,-10 18,0 l 6,0 l 5,10 l 6,-98 l 7,102 l 12,4 q 12,20 26,0 l 10,-18 l 95,0 q 8,-10 18,0 l 6,0 l 5,10 l 6,-98 l 7,102 l 12,4 q 12,20 26,0 l 10,-18 l 95,0 l 51,0 " fill="none"/>
+    <path id="ep_CD" pathLength="1000" d="M 0,196 l 24,0 q 8,-10 18,0 l 6,0 l 4,8 l 6,-60 l 6,30 l 8,-70 l 9,108 l 6,-16 l 8,0 q 12,16 24,0 l 95,0 q 8,-10 18,0 l 6,0 l 4,8 l 6,-60 l 6,30 l 8,-70 l 9,108 l 6,-16 l 8,0 q 12,16 24,0 l 95,0 q 8,-10 18,0 l 6,0 l 4,8 l 6,-60 l 6,30 l 8,-70 l 9,108 l 6,-16 l 8,0 q 12,16 24,0 l 95,0 q 8,-10 18,0 l 6,0 l 4,8 l 6,-60 l 6,30 l 8,-70 l 9,108 l 6,-16 l 8,0 q 12,16 24,0 l 95,0 q 8,-10 18,0 l 6,0 l 4,8 l 6,-60 l 6,30 l 8,-70 l 9,108 l 6,-16 l 8,0 q 12,16 24,0 l 95,0 l 26,0 " fill="none"/>
+    <path id="ep_HYP" pathLength="1000" d="M 0,196 l 24,0 q 7,-9 15,0 l 5,0 l 5,8 l 7,-100 l 8,124 l 5,-28 l 6,4 q 14,20 28,0 l 8,-8 l 100,0 q 7,-9 15,0 l 5,0 l 5,8 l 7,-100 l 8,124 l 5,-28 l 6,4 q 14,20 28,0 l 8,-8 l 100,0 q 7,-9 15,0 l 5,0 l 5,8 l 7,-100 l 8,124 l 5,-28 l 6,4 q 14,20 28,0 l 8,-8 l 100,0 q 7,-9 15,0 l 5,0 l 5,8 l 7,-100 l 8,124 l 5,-28 l 6,4 q 14,20 28,0 l 8,-8 l 100,0 q 7,-9 15,0 l 5,0 l 5,8 l 7,-100 l 8,124 l 5,-28 l 6,4 q 14,20 28,0 l 8,-8 l 100,0 l 41,0 " fill="none"/>
+    <path id="ep_ASYS" pathLength="1000" d="M 0,196 l 300,0 q 8,-4 16,0 l 320,0 q 8,-4 16,0 l 348,0 " fill="none"/>
+  </defs>
+
+  <rect width="1000" height="260" rx="14" fill="#04070a"/>
+  <rect width="1000" height="260" rx="14" fill="url(#gridLarge)"/>
+  <rect x="1" y="1" width="998" height="258" rx="13" fill="none" stroke="#12301f" stroke-width="2"/>
+
+  <!-- rhythm episodes: one full sweep per label, then the next -->
+  <use href="#ep_NORM" stroke="#00ff88" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0.14;0" keyTimes="0;0.1429" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_NORM" stroke="#00ff88" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.1429" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;0;0" keyTimes="0;0.1206;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_MI" stroke="#ffd166" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.1429;0.2857" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_MI" stroke="#ffd166" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1429;0.2857" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.1429;0.2635;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_STTC" stroke="#ffd166" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.2857;0.4286" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_STTC" stroke="#ffd166" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2857;0.4286" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.2857;0.4063;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_NORM" stroke="#00ff88" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.4286;0.5714" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_NORM" stroke="#00ff88" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4286;0.5714" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.4286;0.5492;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_CD" stroke="#ffd166" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.5714;0.7143" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_CD" stroke="#ffd166" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5714;0.7143" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.5714;0.6921;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_HYP" stroke="#ffd166" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_HYP" stroke="#ffd166" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.7143;0.8349;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_ASYS" stroke="#ff3355" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.14;0" keyTimes="0;0.8571;1.0000" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#ep_ASYS" stroke="#ff3355" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="1000 1000" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8571;1.0000" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="1000;1000;0;0" keyTimes="0;0.8571;0.9778;1" dur="31.5s" repeatCount="indefinite"/>
+  </use>
+  <circle r="5" fill="#c8ffe9" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.1206" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.1206;1"><mpath href="#ep_NORM"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ffe8b3" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1429;0.2635" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.1429;0.2635;1"><mpath href="#ep_MI"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ffe8b3" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2857;0.4063" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.2857;0.4063;1"><mpath href="#ep_STTC"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#c8ffe9" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.4286;0.5492" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.4286;0.5492;1"><mpath href="#ep_NORM"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ffe8b3" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5714;0.6921" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.5714;0.6921;1"><mpath href="#ep_CD"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ffe8b3" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.7143;0.8349" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.7143;0.8349;1"><mpath href="#ep_HYP"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#ffb3c1" filter="url(#glowStrong)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.8571;0.9778" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animateMotion dur="31.5s" repeatCount="indefinite" rotate="none" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.8571;0.9778;1"><mpath href="#ep_ASYS"/></animateMotion>
+  </circle>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#00ff88" opacity="0">NORM — NORMAL SINUS RHYTHM
+    <animate attributeName="opacity" values="0.85;0" keyTimes="0;0.1429" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#ffd166" opacity="0">MI — MYOCARDIAL INFARCTION
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.1429;0.2857" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#ffd166" opacity="0">STTC — ST/T CHANGE
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.2857;0.4286" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#00ff88" opacity="0">NORM — NORMAL SINUS RHYTHM
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.4286;0.5714" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#ffd166" opacity="0">CD — CONDUCTION DISTURBANCE
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.5714;0.7143" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#ffd166" opacity="0">HYP — HYPERTROPHY
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" letter-spacing="5" fill="#ff3355" opacity="0">ASYSTOLE — FLATLINE
+    <animate attributeName="opacity" values="0;0.85;0" keyTimes="0;0.8571;1.0000" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="34" y="42" font-family="'Courier New', monospace" font-size="14" letter-spacing="4" fill="#ff3355" opacity="0.9">● REC
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+
+  <g font-family="'Courier New', monospace" font-size="14" letter-spacing="3">
+  <text x="966" y="42" text-anchor="end" fill="#00ff88">NORM · SINUS RHYTHM
+    <animate attributeName="opacity" values="1;0;0;1;0;0;0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="966" y="42" text-anchor="end" fill="#ffd166">MI
+    <animate attributeName="opacity" values="0;1;0;0;0;0;0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="966" y="42" text-anchor="end" fill="#ffd166">STTC
+    <animate attributeName="opacity" values="0;0;1;0;0;0;0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="966" y="42" text-anchor="end" fill="#ffd166">CD
+    <animate attributeName="opacity" values="0;0;0;0;1;0;0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="966" y="42" text-anchor="end" fill="#ffd166">HYP
+    <animate attributeName="opacity" values="0;0;0;0;0;1;0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="966" y="42" text-anchor="end" fill="#ff3355">ASYSTOLE
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+  </text>
+  </g>
+  <text x="966" y="66" text-anchor="end" font-family="'Courier New', monospace" font-size="20" filter="url(#glow)">♥
+    <animate attributeName="fill" values="#00ff88;#ffd166;#ffd166;#00ff88;#ffd166;#ffd166;#ff3355" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" dur="31.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.25;1" dur="0.9s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="102" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="2" fill="#ffffff">Dong-Hyuk Lee</text>
+  <text x="500" y="138" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" letter-spacing="5" fill="#ffffff" opacity="0.92">AI RESEARCHER · ECG × DEEP LEARNING</text>
+</svg>
