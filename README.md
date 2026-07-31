@@ -73,7 +73,7 @@ class DongHyukLee(AIResearcher):
 | | Direction | Description |
 | :---: | :--- | :--- |
 | 🩺 | **ECG-based Diagnosis** | 다양한 심장 질환을 딥러닝으로 스크리닝 |
-| ⏳ | **Cardiac Age Estimation** | 심전도에 새겨진 심장의 생물학적 나이 |
+| ⏳ | **ECG Foundation Model** | ECG 기반 기반 모델 설계 |
 | 🔬 | **Beyond the Waveform** | 파형 너머의 생리학적 상태를 찾아내는 표현학습 |
 
 ### 2.2 · Keywords
