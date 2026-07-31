@@ -3,32 +3,25 @@
 <!-- ⚡ Custom animated ECG monitor header (assets/header.svg) -->
 <img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
 
-<br><br>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hyuki0003/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyuki0003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/) ·
+[Notion](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link) ·
+[Instagram](https://www.instagram.com/hyuk_i2/) ·
+[GitHub](https://github.com/hyuki0003) ·
+[hyuki0003@gmail.com](mailto:hyuki0003@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=hyuki0003&style=flat-square&color=00C7B7&label=Profile+Views"/>
+<br>
 
-<br><br>
-
-<!-- ───────────── Quick Navigation ───────────── -->
-**[ 01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Stats](#07--github-stats)**
+**[01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Stats](#07--github-stats)**
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-1.svg" width="100%"/>
 
 <a id="01--about"></a>
 
 ## 01 · About 🫀
-
-<!-- Typing Animation -->
-<a href="https://github.com/hyuki0003">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=640&lines=AI+Researcher+%40+Medical+AI+Co.%2C+Ltd.;Decoding+Diseases+from+the+Heartbeat+%F0%9F%AB%80;Cardiac+Age+%C2%B7+Diagnosis+%C2%B7+Beyond+the+Waveform;Biosignals+%E2%86%92+Deep+Learning+%E2%86%92+Clinical+Impact" alt="Typing SVG" />
-</a>
 
 > **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
 
@@ -45,11 +38,12 @@ class DongHyukLee(AIResearcher):
     def research(self, ecg: Signal) -> ClinicalInsight:
         return {
             "disease_screening": "Multi-label cardiac abnormality detection",
+            "cardiac_age":       "Biological heart age estimation",
             "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
         }
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-2.svg" width="100%"/>
 
 <a id="02--research-focus"></a>
 
@@ -57,33 +51,32 @@ class DongHyukLee(AIResearcher):
 
 ### 2.1 · Current Directions
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-🩺<br><b>ECG-based Diagnosis</b><br><sub>다양한 심장 질환을<br>딥러닝으로 스크리닝</sub>
-</td>
-<td align="center" width="33%">
-⏳<br><b>Cardiac Age Estimation</b><br><sub>심전도에 새겨진<br>심장의 생물학적 나이</sub>
-</td>
-<td align="center" width="33%">
-🔬<br><b>Beyond the Waveform</b><br><sub>파형 너머의 생리학적 상태를<br>찾아내는 표현학습</sub>
-</td>
-</tr>
-</table>
+| | Direction | Description |
+| :---: | :--- | :--- |
+| 🩺 | **ECG-based Diagnosis** | 다양한 심장 질환을 딥러닝으로 스크리닝 |
+| ⏳ | **Cardiac Age Estimation** | 심전도에 새겨진 심장의 생물학적 나이 |
+| 🔬 | **Beyond the Waveform** | 파형 너머의 생리학적 상태를 찾아내는 표현학습 |
 
 ### 2.2 · Keywords
 
-<div align="center">
+**Primary** — `ECG Deep Learning` · `Cardiac Age Estimation` · `Biosignal Processing`
 
-![ECG AI](https://img.shields.io/badge/🫀_ECG_Deep_Learning-EE4C2C?style=for-the-badge)
-![Cardiac Age](https://img.shields.io/badge/⏳_Cardiac_Age_Estimation-FF6F00?style=for-the-badge)
-![Biosignal](https://img.shields.io/badge/📈_Biosignal_Processing-00C7B7?style=for-the-badge)
-<br>
-![Multimodal](https://img.shields.io/badge/🔗_Multimodal_Learning-5C3EE8?style=for-the-badge)
-![XAI](https://img.shields.io/badge/🔍_eXplainable_AI-123456?style=for-the-badge)
-![Emotion](https://img.shields.io/badge/💬_Emotion_Recognition-FF4081?style=for-the-badge)
+**Secondary** — `Multimodal Learning` · `Contrastive Learning` · `eXplainable AI` · `Emotion Recognition`
 
-</div>
+### 2.3 · Research Journey
+
+*사람의 신호(영상·대화·생체신호)에서 의미를 읽어내는 표현학습 — 그 끝은 심장입니다.*
+
+| Signal | Method | Application | Venue |
+| :--- | :--- | :--- | :--- |
+| 🎥 **Facial Video** | Balanced CL, Global-Local CL <br> Spatio-Temporal Maps × Cross-Attention | Remote Heart Rate Estimation (rPPG) | ICEIC '25 · IEIE '24, '25 <br> JBHI (in progress) · Patent |
+| 💬 **Conversation** <br> <sub>Audio · Text · Vision</sub> | Inter-Dialog CL <br> Multimodal Graph Representation | Emotion Recognition in Conversations | **ICASSP '26 (Oral)** <br> KOSOMBE '24 🥇 · TAFFC (review) |
+| ⌚ **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | IEIE '25 · JBHI (review) |
+| 🫀 **ECG** <br> <sub>← now</sub> | Foundation model adaptation <br> Multi-label / multi-task learning | Disease screening · Cardiac age <br> Hidden physiological states | @ Medical AI Co., Ltd. |
+
+<img src="./assets/divider-3.svg" width="100%"/>
+
+<a id="03--publications"></a>
 
 ## 03 · Publications 📚
 
@@ -111,7 +104,7 @@ class DongHyukLee(AIResearcher):
 
 <br>
 
-| Year | Venue | Title |
+| Date | Venue | Title |
 | :--- | :--- | :--- |
 | 2025.11 | IEIE Autumn | M. S. Lee, D. H. Kim, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al. — *Correlation Analysis of Biomarkers using Multimodal Biosignals for Detecting Craving States in Patients with Substance Use Disorder* |
 | 2025.06 | IEIE Summer | ★ **D.-H. Lee**, Y.-S. Choi — *Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention* |
@@ -123,15 +116,15 @@ class DongHyukLee(AIResearcher):
 
 ### 3.4 · Thesis
 
-- ★ **D.-H. Lee**, *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations*, **M.S. Thesis**, Kwangwoon University, Dec. 2025.
+★ **D.-H. Lee**, *Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations*, **M.S. Thesis**, Kwangwoon University, Dec. 2025.
 
 ### 3.5 · Patents
 
-- **Y.-S. Choi, D.-H. Lee**, "생리학적 혈류 방향 기반 시공간 특징맵과 교차 주의 집중을 이용한 비접촉 원격 심박수 추정 시스템" <br>
-  <sub>*(Remote Heart Rate Estimation System with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention)*</sub> <br>
-  <sub>Application No. `10-2025-0123545` · Filed 2025.09.01</sub>
+**Y.-S. Choi, D.-H. Lee**, "생리학적 혈류 방향 기반 시공간 특징맵과 교차 주의 집중을 이용한 비접촉 원격 심박수 추정 시스템"
+<br><sub>*(Remote Heart Rate Estimation System with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention)*</sub>
+<br><sub>Application No. `10-2025-0123545` · Filed 2025.09.01</sub>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-4.svg" width="100%"/>
 
 <a id="04--experience"></a>
 
@@ -152,7 +145,7 @@ class DongHyukLee(AIResearcher):
 | **B.S.** | Computer Software Engineering | Hansung University |
 | **B.S.** | IT Convergence Engineering | Hansung University |
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-5.svg" width="100%"/>
 
 <a id="05--awards--milestones"></a>
 
@@ -168,35 +161,21 @@ class DongHyukLee(AIResearcher):
 | **2024.05** | 🥇 **Best Poster Award**, KOSOMBE 2024 |
 | **2024.03** | 🏫 Joined **NeuroAI Lab.**, Kwangwoon University |
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-6.svg" width="100%"/>
 
 <a id="06--tech-stack"></a>
 
 ## 06 · Tech Stack 🛠️
 
-<div align="center">
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | `Python` · `C` · `LaTeX` |
+| **DL Frameworks** | `PyTorch` · `TensorFlow` · `scikit-learn` |
+| **Data & Vision** | `NumPy` · `Pandas` · `OpenCV` |
+| **MLOps & Infra** | `Ray` · `MLflow` · `Jupyter` |
+| **Environment** | `Ubuntu` · `Windows` · `Git` · `VS Code` · `MySQL` |
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,sklearn,latex&theme=dark" />
-
-**Data · Vision · Environment**
-
-<img src="https://skillicons.dev/icons?i=opencv,git,vscode,ubuntu,windows,mysql&theme=dark" />
-
-<br>
-
-**Libraries & MLOps**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider-7.svg" width="100%"/>
 
 <a id="07--github-stats"></a>
 
@@ -204,37 +183,19 @@ class DongHyukLee(AIResearcher):
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hyuki0003&theme=darkhub&no-frame=true&column=7&margin-w=6" width="100%"/>
-
-<br><br>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hyuki0003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&icon_color=00c7b7&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuki0003&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&text_color=c9d1d9" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyuki0003&hide_border=true&background=04070a&ring=00ff88&fire=EE4C2C&currStreakLabel=00c7b7&sideLabels=7ddfc3&sideNums=ffffff&currStreakNum=00ff88&dates=566573" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyuki0003&bg_color=04070a&color=7ddfc3&line=00ff88&point=ee4c2c&area=true&area_color=0e2419&hide_border=true&custom_title=Contribution%20Waveform%20%F0%9F%AB%80" width="100%"/>
-
 </div>
 
-<br>
+<img src="./assets/divider-8.svg" width="100%"/>
 
 <div align="center">
-
-<img src="./assets/divider.svg" width="100%"/>
 
 <sub>💌 Open to research collaboration on <b>ECG AI · Biosignal Processing · Clinical Deep Learning</b></sub>
 
 <br>
 
 <a href="mailto:hyuki0003@gmail.com"><b>hyuki0003@gmail.com</b></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04070a,50:0e2419,100:00ff88&height=120&section=footer" width="100%"/>
 
 </div>
