@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚡ Custom animated ECG monitor header (assets/header.svg) -->
-<img src="./assets/header (2).svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
+<img src="./assets/header.svg" width="100%" alt="Dong-Hyuk Lee — AI Researcher, ECG × Deep Learning"/>
 
 <br>
 
@@ -49,7 +49,7 @@ class DongHyukLee(AIResearcher):
     def research(self, ecg: Signal) -> ClinicalInsight:
         return {
             "disease_screening": "Multi-label cardiac abnormality detection",
-            "foundation_model":  "Construct & Optimize ECG foundation model",
+            "cardiac_age":       "Biological heart age estimation",
             "beyond_diagnosis":  "Hidden physiological states encoded in ECG",
         }
 ```
@@ -73,7 +73,7 @@ class DongHyukLee(AIResearcher):
 | | Direction | Description |
 | :---: | :--- | :--- |
 | 🩺 | **ECG-based Diagnosis** | 다양한 심장 질환을 딥러닝으로 스크리닝 |
-| ⏳ | **ECG Foundation Model** | ECG 기반 기반 모델 설계 및 최적화 |
+| ⏳ | **Cardiac Age Estimation** | 심전도에 새겨진 심장의 생물학적 나이 |
 | 🔬 | **Beyond the Waveform** | 파형 너머의 생리학적 상태를 찾아내는 표현학습 |
 
 ### 2.2 · Keywords
@@ -208,10 +208,11 @@ class DongHyukLee(AIResearcher):
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hyuki0003&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&icon_color=00c7b7&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuki0003&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04070a&title_color=00ff88&text_color=c9d1d9" />
+<img src="./assets/stats.svg" width="82%" alt="GitHub stats"/>
 
 </div>
+
+<sub>Generated daily from the GitHub API by <code>.github/workflows/stats.yml</code> — no third-party service, so it never breaks.</sub>
 
 <img src="./assets/divider.svg" width="100%"/>
 
