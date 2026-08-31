@@ -103,7 +103,7 @@ My research sits at the intersection of **representation learning** and **physio
 | Status | Venue | Title |
 | :---: | :--- | :--- |
 | `IN PROGRESS` | **IEEE JBHI** <br> <sub>2026</sub> | Remote Heart Rate Estimation via Global-Local Contrastive Learning for Robust Physiological Measurement <br> <sub>**D.-H. Lee**, D. H. Kim, Y.-S. Choi &nbsp; `1st author`</sub> |
-| `UNDER REVIEW` | **IEEE TAFFC** <br> <sub>2026</sub> | Topology-Aware Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition <br> <sub>D. H. Kim, **D.-H. Lee**, Y.-S. Choi</sub> |
+| `UNDER REVIEW` | **IEEE ESWA** <br> <sub>2026</sub> | Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition <br> <sub>D. H. Kim, **D.-H. Lee**, Y.-S. Choi</sub> |
 | `UNDER REVIEW` | **IEEE JBHI** <br> <sub>2026</sub> | Identifying Wearable Multimodal Physiomarkers under Graded Alcohol Craving Level During VR Cue Elicitation <br> <sub>D. H. Kim, M. S. Lee, **D.-H. Lee**, J.-Y. Lee, Y.-S. Choi, et al.</sub> |
 
 ### 3.2 · International Conferences
