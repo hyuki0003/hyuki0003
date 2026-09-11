@@ -166,8 +166,9 @@ My research sits at the intersection of **representation learning** and **physio
 
 | Date | | Milestone |
 | :---: | :---: | :--- |
+| **2026.08** | `Journal` | Our paper *Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition* has been submitted to **EWSA** and is currently under review|
 | **2026.04** | | Joined **Medical AI Co., Ltd.** as an AI Researcher <br> <sub>diving into ECG deep learning</sub> |
-| **2026.03** | `ORAL` | **ICASSP 2026** paper selected for oral presentation <br> <sub>see you in Barcelona</sub> |
+| **2026.03** | `Conference` | **ICASSP 2026** paper selected for **oral presentation** <br> <sub>see you in Barcelona</sub> |
 | **2026.02** | | Graduated from **NeuroAI Lab.**, Kwangwoon University |
 | **2026.01** | | *Inter-Dialog Contrastive Learning* accepted to **ICASSP 2026** |
 | **2025.09** | `PATENT` | Patent filed — rPPG with blood-flow-direction-aware ST maps |
