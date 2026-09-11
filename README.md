@@ -170,7 +170,7 @@ My research sits at the intersection of **representation learning** and **physio
 | **2026.04** | | Joined **Medical AI Co., Ltd.** as an AI Researcher <br> <sub>diving into ECG deep learning</sub> |
 | **2026.03** | `Conference` | **ICASSP 2026** paper selected for **oral presentation** <br> <sub>see you in Barcelona</sub> |
 | **2026.02** | | Graduated from **NeuroAI Lab.**, Kwangwoon University |
-| **2026.01** | | *Inter-Dialog Contrastive Learning* accepted to **ICASSP 2026** |
+| **2026.01** | `Conference` | *Inter-Dialog Contrastive Learning* accepted to **ICASSP 2026** |
 | **2025.09** | `PATENT` | Patent filed — rPPG with blood-flow-direction-aware ST maps |
 | **2024.05** | `AWARD` | **Best Poster Award**, KOSOMBE 2024 |
 | **2024.03** | | Joined **NeuroAI Lab.**, Kwangwoon University |
