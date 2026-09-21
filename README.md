@@ -34,7 +34,7 @@
 ```
 ┌─ REPORT ───────────────────────────────────────────────────┐
 │  NAME       Dong-Hyuk Lee                                  │
-│  STATUS       AI Researcher  ·  Medical AI Co., Ltd.       │
+│  STATUS     AI Researcher  ·  Medical AI Co., Ltd.         │
 │  DEPT       AI Group, R&D Dept.                            │
 │  FOCUS      ECG × Deep Learning                            │
 │  PRIOR      Kwangwoon Univ.  ·  NeuroAI Lab.               │
