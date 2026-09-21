@@ -165,6 +165,7 @@ My research sits at the intersection of **representation learning** and **physio
 
 | Date | | Milestone |
 | :---: | :---: | :--- |
+| **2026.09** | `Journal` | Our paper *Multimodal Candidate Physiological Markers of VR-Elicited Graded Alcohol Craving in Outpatients With Alcohol Use Disorder* has been submitted to **JBHI** and is currently under review|
 | **2026.08** | `Journal` | Our paper *Cross-Modal Alignment for Robust Multimodal Fusion in Conversational Emotion Recognition* has been submitted to **EWSA** and is currently under review|
 | **2026.04** | | Joined **Medical AI Co., Ltd.** as an AI Researcher <br> <sub>diving into ECG deep learning</sub> |
 | **2026.03** | `Conference` | **ICASSP 2026** paper selected for **oral presentation** <br> <sub>see you in Barcelona</sub> |
