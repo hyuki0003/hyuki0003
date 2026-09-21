@@ -23,17 +23,16 @@
 
 <img src="./assets/h01_about.svg" width="100%" alt="01 · About"/>
 
-> **"A heartbeat lasts a moment — the story it tells lasts a lifetime."**
+> **"Learn Today, Grow for a Lifetime"**
 
 ```
-┌─ ECG REPORT ───────────────────────────────────────────────┐
+┌─ REPORT ───────────────────────────────────────────────────┐
 │  NAME       Dong-Hyuk Lee                                  │
 │  ROLE       AI Researcher  ·  Medical AI Co., Ltd.         │
 │  DEPT       AI Group, R&D Dept.                            │
 │  FOCUS      ECG × Deep Learning                            │
 │  PRIOR      Kwangwoon Univ.  ·  NeuroAI Lab.               │
-│  STATUS     ● RECORDING                                    │
-└─────────────────────────────────────────────────── LEAD II ┘
+└─────────────────────────────────────────────────────────── ┘
 ```
 
 I'm an **AI Researcher** at [**Medical AI Co., Ltd.**](https://www.medicalai.com/ko/), building deep learning systems that read what the human eye cannot — from the **ECG**.
