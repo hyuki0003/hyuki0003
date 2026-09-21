@@ -77,7 +77,7 @@ My research sits at the intersection of **representation learning** and **physio
 
 | | |
 | ---: | :--- |
-| **Primary** | `ECG Deep Learning` &nbsp; `Cardiac Age Estimation` &nbsp; `Biosignal Processing` |
+| **Primary** | `ECG Deep Learning` &nbsp; `Cardiac Disease Estimation` &nbsp; `Biosignal Processing` |
 | **Secondary** | `Multimodal Learning` &nbsp; `Contrastive Learning` &nbsp; `eXplainable AI` &nbsp; `Emotion Recognition` |
 
 </div>
