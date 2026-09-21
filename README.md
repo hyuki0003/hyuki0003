@@ -23,12 +23,18 @@
 
 <img src="./assets/h01_about.svg" width="100%" alt="01 · About"/>
 
-> **"Learn Today, Grow for a Lifetime"**
+<div align="center" color="white">
+
+   ### **"Learn Today, Grow for a Lifetime"**
+
+</div>
+
+<br>
 
 ```
 ┌─ REPORT ───────────────────────────────────────────────────┐
 │  NAME       Dong-Hyuk Lee                                  │
-│  ROLE       AI Researcher  ·  Medical AI Co., Ltd.         │
+│  STATUS       AI Researcher  ·  Medical AI Co., Ltd.       │
 │  DEPT       AI Group, R&D Dept.                            │
 │  FOCUS      ECG × Deep Learning                            │
 │  PRIOR      Kwangwoon Univ.  ·  NeuroAI Lab.               │
@@ -52,7 +58,7 @@ My research sits at the intersection of **representation learning** and **physio
 │ Representation learning on physiological signals.          │
 │ Contrastive and multimodal objectives that pull            │
 │ clinically meaningful structure out of raw biosignals.     │
-└────────────────────────────────────────────── SINUS RHYTHM ┘
+└─────────────────────────────────────────────────────────── ┘
 ```
 
 <div align="center">
@@ -207,7 +213,7 @@ My research sits at the intersection of **representation learning** and **physio
 ```
 ┌─ END OF RECORD ────────────────────────────────────────────┐
 │ Open to research collaboration                             │
-│ ECG AI · Biosignal Processing · Clinical Deep Learning     │
+│ Biosignal Processing · Clinical Deep Learning              │
 └────────────────────────────────────────────────────────────┘
 ```
 
