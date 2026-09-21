@@ -97,12 +97,6 @@ My research sits at the intersection of **representation learning** and **physio
 
 <img src="./assets/h03_publications.svg" width="100%" alt="03 · Publications"/>
 
-<div align="center">
-
-`1st author` &nbsp;·&nbsp; `ORAL` &nbsp;·&nbsp; `AWARD` &nbsp;·&nbsp; `UNDER REVIEW` &nbsp;·&nbsp; `IN PROGRESS`
-
-</div>
-
 ### 3.1 · Journal Articles
 
 | Status | Venue | Title |
