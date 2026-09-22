@@ -86,9 +86,9 @@ My research sits at the intersection of **representation learning** and **physio
 
 | Signal | Method | Application | Venue |
 | :--- | :--- | :--- | :--- |
-| **Facial Video** | Balanced CL · Global-Local CL <br> <sub>Spatio-Temporal Maps × Cross-Attention</sub> | Remote Heart Rate Estimation <br> <sub>rPPG</sub> | `ICEIC '25` `IEIE '24·'25` <br> <sub>JBHI in progress · Patent filed</sub> |
-| **Conversation** <br> <sub>Audio · Text · Vision</sub> | Inter-Dialog CL <br> <sub>Multimodal Graph Representation</sub> | Emotion Recognition <br> <sub>in Conversations</sub> | `ICASSP '26` `KOSOMBE '24` <br> <sub>Oral · Best Poster · TAFFC review</sub> |
-| **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | `IEIE '25` <br> <sub>JBHI review</sub> |
+| **Facial Video** | Balanced CL · Global-Local CL <br> Spatio-Temporal Maps × Cross-Attention | Remote Heart Rate Estimation <br> <sub>rPPG</sub> | `ICEIC '25` `IEIE '24·'25` <br> <sub>JBHI in progress · Patent filed</sub> |
+| **Conversation** <br> <sub>Audio · Text · Vision</sub> | Inter-Dialog CL <br> <sub>Multimodal Graph Representation</sub> | Emotion Recognition <br> <sub>in Conversations</sub> | `ICASSP '26` `KOSOMBE '24` `ESWA '26 (under review)`<br> |
+| **Wearable Biosignals** | Multimodal physiomarker analysis | Alcohol Craving-State Detection | `IEIE '25` `JBHI '26 (under review)` |
 | **ECG** <br> <sub>← current area</sub> | Foundation model adaptation <br> <sub>Multi-label / Multi-task learning</sub> | Cardiac disease screening<br> <sub>Hidden physiological states</sub> | `Medical AI` <br> <sub>industry research</sub> |
 
 <img src="./assets/divider.svg" width="100%"/>
