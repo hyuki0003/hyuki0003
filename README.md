@@ -115,7 +115,7 @@ My research sits at the intersection of **representation learning** and **physio
 ### 3.3 · Domestic Conferences
 
 <details>
-<summary><b>펼쳐보기 &nbsp;·&nbsp; 5 papers</b></summary>
+<summary><b>Expand &nbsp;·&nbsp; 5 papers</b></summary>
 
 <br>
 
