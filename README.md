@@ -5,11 +5,15 @@
 
 <br><br>
 
-[LinkedIn](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/) ·
-[Notion](https://www.notion.so/81ff1f23dd8441ba82bb77d9165426b7?source=copy_link) ·
-[Instagram](https://www.instagram.com/hyuk_i2/) ·
-[GitHub](https://github.com/hyuki0003) ·
-[hyuki0003@gmail.com](mailto:hyuki0003@gmail.com)
+[🎓 Scholar](https://scholar.google.com/citations?user=1bRoC34AAAAJ&hl=ko) ·
+[📄 CV](https://hyuki0003.github.io/cv.html) ·
+[🔬 Portfolio](https://hyuki0003.github.io/index.html) ·
+[💼 LinkedIn](https://www.linkedin.com/in/dong-hyuk-lee-8542971b0/) ·
+[✉️ Email](mailto:hyuki0003@gmail.com) ·
+[📷 Instagram](https://www.instagram.com/hyuk_i2/)
+
+여기에 아이콘 넣고싶은데
+
 
 <br>
 
