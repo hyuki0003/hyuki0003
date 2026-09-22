@@ -89,7 +89,7 @@ My research sits at the intersection of **representation learning** and **physio
 | **Facial Video** | `Balanced CL` · `Global-Local CL` <br> `Physiological STMaps` <br> `Cross-Attention` | Remote Heart Rate Estimation <br> <sub>rPPG</sub> | `ICEIC '25` `IEIE '24·'25` <br> `JBHI '26 (In progress)` |
 | **Conversation** <br> <sub>Audio · Text · Vision</sub> | `Inter-Dialog CL` <br> `Multimodal Graph RL` | Multimodal Emotion Recognition <br> <sub>in Conversations</sub> | `ICASSP '26` `KOSOMBE '24` <br> `ESWA '26 (under review)` |
 | **Wearable Biosignals** | `Multimodal physiomarker analysis` | Alcohol Craving-State Detection | `IEIE '25` <br> `JBHI '26 (under review)` |
-| **ECG** <br> <sub>← current area</sub> | Foundation model adaptation <br> <sub>Multi-label / Multi-task learning</sub> | Cardiac disease screening<br> <sub>Hidden physiological states</sub> | `Medical AI` <br> <sub>industry research</sub> |
+| **ECG** <br> <sub>← current area</sub> | `Foundation model adaptation` <br> `Knowledge Distillation` | Cardiac disease screening<br> <sub>Hidden physiological states</sub> | `Medical AI` <br> <sub>industry research</sub> |
 
 <img src="./assets/divider.svg" width="100%"/>
 
