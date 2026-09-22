@@ -12,8 +12,6 @@
 [✉️ Email](mailto:hyuki0003@gmail.com) ·
 [📷 Instagram](https://www.instagram.com/hyuk_i2/)
 
-여기에 아이콘 넣고싶은데
-
 
 <br>
 
