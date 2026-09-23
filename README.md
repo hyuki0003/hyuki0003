@@ -15,7 +15,9 @@
 
 <br>
 
-**[01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) · [07 GitHub Readout](#07--github-readout)**
+**[01 About](#01--about) · [02 Research Focus](#02--research-focus) · [03 Publications](#03--publications) · [04 Experience](#04--experience) · [05 Awards & Milestones](#05--awards--milestones) · [06 Tech Stack](#06--tech-stack) 
+<br>
+[Readout](#07--github-readout)**
 
 <br>
 
